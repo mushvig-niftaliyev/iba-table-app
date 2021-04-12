@@ -12,7 +12,7 @@ Boot up the modules separately or go to server directory and run `npm start`. Th
 # For SERVER I used
 1) Nodejs with Express for api
 2) Nodemon for live updates of the server
-3) Cors for `cors origin policy bypassing
+3) Cors for cors origin policy bypassing
 
 # For the CLIENT I used
 1) React
