@@ -15,8 +15,8 @@ Boot up the modules separately or go to server directory and run `npm start`. Th
 3) Cors for `cors origin policy bypassing
 
 # For the CLIENT I used
-1)React
-2)TypeScript as main lang
-3)Material UI for UI components (they look terrible, i know)
-4)Lodash for deep object comparison
-5)React-query (i have always wanted to try it and im amazed)
+1) React
+2) TypeScript as main lang
+3) Material UI for UI components (they look terrible, i know)
+4) Lodash for deep object comparison
+5) React-query (i have always wanted to try it and im amazed)
