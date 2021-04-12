@@ -1,5 +1,5 @@
 # iba-table-app
-This is the challenge code for ediitable table app
+This is the challenge code for editable table app
 
 # Installation
 
