@@ -1,0 +1,36 @@
+.table-provider {
+    width: calc(100vw - 15%);
+    margin: 100px auto;
+}
+
+.table-content {
+    margin-top: 50px;
+}
+
+.table-row:nth-child(2n) {
+    background-color: rgba(127, 255, 212, 0.144);
+}
+
+.icon-separator {
+    display: inline;
+    margin-left: 40px;
+}
+
+.Mui-disabled {
+    color: black !important;
+}
+
+.Mui-disabled::before {
+    content: none !important;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.heading-actions {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

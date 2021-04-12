@@ -1,0 +1,82 @@
+[
+    {
+        "id": 0,
+        "name": "Glenn",
+        "surname": "Quagmire",
+        "dateOfBirth": "01.04.1995",
+        "position": "SPECIALIST",
+        "phoneNumber": "0556493745"
+    },
+    {
+        "id": 1,
+        "name": "Stewie",
+        "surname": "Griffin",
+        "dateOfBirth": "03.09.1988",
+        "position": "JUNIOR_SPECIALIST",
+        "phoneNumber": "0556473027"
+    },
+    {
+        "id": 2,
+        "name": "Meg",
+        "surname": "Griffin",
+        "dateOfBirth": "21.02.1998",
+        "position": "TECHLEAD",
+        "phoneNumber": "0559483056"
+    },
+    {
+        "id": 3,
+        "name": "Tim",
+        "surname": "Tucker",
+        "dateOfBirth": "03.12.1989",
+        "position": "SENIOR_SPECIALIST",
+        "phoneNumber": "0704758394"
+    },
+    {
+        "id": 4,
+        "name": "Tracy",
+        "surname": "Flannigan",
+        "dateOfBirth": "13.05.1992",
+        "position": "TEAMLEAD",
+        "phoneNumber": "0512345835"
+    },
+    {
+        "id": 5,
+        "name": "Tyrone",
+        "surname": "Stone",
+        "dateOfBirth": "30.09.1890",
+        "position": "SPECIALIST",
+        "phoneNumber": "0553827522"
+    },
+    {
+        "id": 6,
+        "name": "Stewie",
+        "surname": "Griffin",
+        "dateOfBirth": "03.09.2000",
+        "position": "JUNIOR_SPECIALIST",
+        "phoneNumber": "0556473027"
+    },
+    {
+        "id": 7,
+        "name": "Tricia",
+        "surname": "Takanawa",
+        "dateOfBirth": "22.01.1878",
+        "position": "SENIOR_SPECIALIST",
+        "phoneNumber": "0704637433"
+    },
+    {
+        "id": 8,
+        "name": "Fiona",
+        "surname": "Shepherd",
+        "dateOfBirth": "13.11.1970",
+        "position": "TECHLEAD",
+        "phoneNumber": "0503827463"
+    },
+    {
+        "id": 9,
+        "name": "Freddy",
+        "surname": "Jones",
+        "dateOfBirth": "19.10.1995",
+        "position": "TEAMLEAD",
+        "phoneNumber": "0517694730"
+    }
+]
